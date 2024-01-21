@@ -27,4 +27,4 @@ Reach out for private security review via
 |August 2023  | StableCoin | CodeHawks | 2 High 4 Medium  | $37.81|
 |June 2023 | Canto   | Code4rena | 1 High  | $1,694.14|
 |May 2023  | USSD    | Sherlock | 2 High  | $0.0|
-|May 2023  | Footium | Code4rena | 1 Medium  | $0.1|
+|May 2023  | [Footium](https://github.com/sherlock-audit/2023-04-footium-judging/issues/58) | Code4rena | 1 Medium  | $0.1|
