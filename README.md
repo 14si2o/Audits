@@ -20,11 +20,11 @@ Reach out for private security review via
 | Date             | Contest                                                                       | Platform                                                                                 | Findings | Payout |
 |:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|:-------:|
 |September 2023  | Chainlink Staking | Code4rena | Analysis  | $1,421.62|
-|August 2023  | PoolTogether V5 | Code4rena | 1 Medium  | $793.38|
-|August 2023  | GoodEntry | Code4rena | 1 High  | $379.41|
+|August 2023  | [PoolTogether V5](https://code4rena.com/reports/2023-08-pooltogether) | Code4rena | 1 Medium  | $793.38|
+|August 2023  | [GoodEntry](https://code4rena.com/reports/2023-08-goodentry) | Code4rena | 1 High  | $379.41|
 |August 2023  | Verwa | Code4rena | QA  | $9.82|
 |August 2023  | Escrow | CodeHawks | 3 Medium  | $648.26|
 |August 2023  | StableCoin | CodeHawks | 2 High 4 Medium  | $37.81|
-|June 2023 | Canto   | Code4rena | 1 High  | $1,694.14|
-|May 2023  | USSD    | Sherlock | 2 High  | $0.0|
-|May 2023  | [Footium](https://github.com/sherlock-audit/2023-04-footium-judging/issues/58) | Code4rena | 1 Medium  | $0.1|
+|June 2023 | [Canto](https://code4rena.com/reports/2023-06-canto#h-01-pre-defined-limit-is-different-from-the-spec)   | Code4rena | 1 High  | $1,694.14|
+|May 2023  | [USSD](https://audits.sherlock.xyz/contests/82/report)    | Sherlock | 2 High  | $0.0|
+|May 2023  | [Footium](https://audits.sherlock.xyz/contests/71/report) | Code4rena | 1 Medium  | $0.1|
