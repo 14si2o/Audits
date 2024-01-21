@@ -8,6 +8,7 @@ Reach out for private security review via **X** @14si20, **Discord** @14si2o_fli
 
 | Date             | Contest                                                                       | Platform                                                                                 | Submissions | Payout |
 |:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|:-------:|
+|September 2023  | Chainlink Staking | Code4rena | Analysis  | $1,421.62|
 |August 2023  | PoolTogether V5 | Code4rena | 1 Medium  | $793.38|
 |August 2023  | GoodEntry | Code4rena | 1 High  | $379.41|
 |August 2023  | Verwa | Code4rena | QA  | $9.82|
