@@ -2,9 +2,9 @@
 
 You can reach out for security consultancy and reviews via:
 
-- **X**: @14si20
-- **Discord** @14si2o_flint 
-- **Telegram** @Flint_14si2o
+- **X:** @14si20
+- **Discord:** @14si2o_flint 
+- **Telegram:** @Flint_14si2o
 
 I work through **Pay Per Vulnerability**, meaning a very low fixed fee and only additional remuneration if I can actually find and resolve vulnerabilities for your protocol.   
 
