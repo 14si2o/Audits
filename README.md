@@ -12,10 +12,10 @@ I work through **Pay Per Vulnerability**, meaning a very low fixed fee and only 
 ## Competitive Audit Contests
 
 ### Ongoing
-| Date             | Contest                                                                       | Platform                                                                                 | Submissions | 
-|:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|
-|January 2024  | Ubiquity | Sherlock | 1 High 2 Medium  | 
-|December 2023  | Ethereum Credit Guild | Code4rena | 4 High 9 Medium  |
+| Date             | Contest                                                                       | Platform                                                                                 | Submissions | Status |
+|:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|:-------:|
+|January 2024  | Ubiquity | Sherlock | 1 High 2 Medium  | Judging |
+|December 2023  | Ethereum Credit Guild | Code4rena | 4 High 9 Medium  | Judging |
 
 
 ### Concluded
