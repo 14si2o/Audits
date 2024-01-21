@@ -6,6 +6,11 @@ Reach out for private security review via **X** @14si20, **Discord** @14si2o_fli
 ## Competitive Audit Contests
 
 
-| Duration             | Contest                                                                       | Description                                                                                 | Submissions | Payout |
+| Date             | Contest                                                                       | Platform                                                                                 | Submissions | Payout |
 |:---------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|:-------:|
 |  |                              |                                            |   1st   |         |
+
+
+
+
+|May 2023  | Footium | Code4rena | 1 Medium  | $0.1|
