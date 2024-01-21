@@ -12,7 +12,7 @@ Reach out for private security review via
 ### Ongoing
 | Date             | Contest                                                                       | Platform                                                                                 | Submissions | 
 |:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|
-|January 2024  | Ubiquity | Sherlock | 1H 2M  | 
+|January 2024  | Ubiquity | Sherlock | 1 High 2 Medium  | 
 |December 2023  | Ethereum Credit Guild | Code4rena | 4 High 9 Medium  |
 
 
