@@ -5,8 +5,15 @@ Reach out for private security review via **X** @14si20, **Discord** @14si2o_fli
 
 ## Competitive Audit Contests
 
+### Ongoing
+| Date             | Contest                                                                       | Platform                                                                                 | Submissions | 
+|:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|
+|January 2024  | Ubiquity | Sherlock | 1H 2M  | 
+|December 2023  | Ethereum Credit Guild | Code4rena | 4 High 9 Medium  |
 
-| Date             | Contest                                                                       | Platform                                                                                 | Submissions | Payout |
+
+### Concluded
+| Date             | Contest                                                                       | Platform                                                                                 | Findings | Payout |
 |:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|:-------:|
 |September 2023  | Chainlink Staking | Code4rena | Analysis  | $1,421.62|
 |August 2023  | PoolTogether V5 | Code4rena | 1 Medium  | $793.38|
