@@ -15,12 +15,13 @@ I work through **Pay Per Vulnerability**, meaning a very low fixed fee and only 
 | Date             | Contest                                                                       | Platform                                                                                 | Submissions | Status |
 |:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|:-------:|
 |January 2024  | Ubiquity | Sherlock | 1 High 2 Medium  | Judging |
-|December 2023  | Ethereum Credit Guild | Code4rena | 4 High 9 Medium  | Judging |
+
 
 
 ### Concluded
 | Date             | Contest                                                                       | Platform                                                                                 | Findings | Payout |
 |:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|:-------:|
+|December 2023  | Ethereum Credit Guild | Code4rena | Analysis  | $114.88 |
 |September 2023  | Chainlink Staking | Code4rena | Analysis  | $1,421.62|
 |August 2023  | [PoolTogether V5](https://code4rena.com/reports/2023-08-pooltogether) | Code4rena | 1 Medium  | $793.38|
 |August 2023  | [GoodEntry](https://code4rena.com/reports/2023-08-goodentry) | Code4rena | 1 High  | $379.41|
