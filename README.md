@@ -6,7 +6,7 @@ You can reach out for security consultancy and reviews via:
 - **Discord:** @14si2o_flint 
 - **Telegram:** @Flint_14si2o
 
-I work through **Pay Per Vulnerability**, meaning a very low fixed fee and only additional remuneration if I can actually find and resolve vulnerabilities for your protocol.   
+I work through **Pay Per Vulnerability**, meaning a fixed fee and only additional remuneration if I can actually find and resolve vulnerabilities for your protocol.   
 
 
 ## Competitive Audit Contests
