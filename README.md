@@ -14,8 +14,8 @@ I work through **Pay Per Vulnerability**, meaning a very low fixed fee and only 
 ### Ongoing
 | Date             | Contest                                                                       | Platform                                                                                 | Submissions | Status |
 |:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|:-------:|
-|January 2024  | Ubiquity | Sherlock | 1 High 2 Medium  | Judging |
-
+|February 2024  | AiArena | Code4rena | 3 High 3 Medium  | Judging |
+|February 2024  | Spectra | Code4rena | 2 High 2 Medium  | Judging |
 
 
 ### Concluded
