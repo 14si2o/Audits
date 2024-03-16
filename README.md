@@ -12,10 +12,11 @@ I work through **Pay Per Vulnerability**, meaning a fixed fee and only additiona
 ## Competitive Audit Contests
 
 ### Ongoing
-| Date             | Contest                                                                       | Platform                                                                                 | Submissions | Status |
-|:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|:-------:|
-|February 2024  | AiArena | Code4rena | 3 High 3 Medium  | Judging |
-|February 2024  | Spectra | Code4rena | 2 High 2 Medium  | Judging |
+| Date             | Contest                                                                       | Platform                                                                                 |  Status |
+|:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|
+|February 2024  | AiArena | Code4rena | Judging |
+|February 2024  | Spectra | Code4rena | Judging |
+|March 2024  | Revert Lend | Code4rena | Judging |
 
 
 ### Concluded
