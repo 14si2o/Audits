@@ -15,13 +15,15 @@ I work through **Pay Per Vulnerability**, meaning a fixed fee and only additiona
 | Date             | Contest                                                                       | Platform                                                                                 |  Status |
 |:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|
 |February 2024  | AiArena | Code4rena | Judging |
-|February 2024  | Spectra | Code4rena | Judging |
 |March 2024  | Revert Lend | Code4rena | Judging |
+|March 2024  | Amphor | Sherlock | Judging |
+|March 2024  | Radicalx | Sherlock | Judging |
 
 
 ### Concluded
 | Date             | Contest                                                                       | Platform                                                                                 | Findings | Payout |
 |:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|:-------:|
+|February 2024  | Spectra | Code4rena | 1 Medium | $100.16 |
 |December 2023  | Ethereum Credit Guild | Code4rena | Analysis  | $114.88 |
 |September 2023  | Chainlink Staking | Code4rena | Analysis  | $1,421.62|
 |August 2023  | [PoolTogether V5](https://code4rena.com/reports/2023-08-pooltogether) | Code4rena | 1 Medium  | $793.38|
