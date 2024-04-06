@@ -30,7 +30,7 @@ I work through **Pay Per Vulnerability**, meaning a fixed fee and only additiona
 ### Concluded
 | Date             | Contest                                                                       | Platform                                                                                 | Findings | Payout |
 |:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|:-------:|
-|February 2024  | AiArena | Code4rena | 3H 1M | $180.21 |
+|February 2024  | AiArena | Code4rena | 3 High 1 Medium | $180.21 |
 |February 2024  | Spectra | Code4rena | 1 Medium | $100.16 |
 |December 2023  | Ethereum Credit Guild | Code4rena | Analysis  | $114.88 |
 |September 2023  | Chainlink Staking | Code4rena | Analysis  | $1,421.62|
