@@ -22,7 +22,6 @@ I work through **Pay Per Vulnerability**, meaning a fixed fee and only additiona
 ### Ongoing
 | Date             | Contest                                                                       | Platform                                                                                 |  Status |
 |:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|
-
 |March 2024  | Revert Lend | Code4rena | Judging |
 |March 2024  | Amphor | Sherlock | Judging |
 |March 2024  | Radicalx | Sherlock | Judging |
