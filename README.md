@@ -9,12 +9,20 @@ You can reach out for security consultancy and reviews via:
 I work through **Pay Per Vulnerability**, meaning a fixed fee and only additional remuneration if I can actually find and resolve vulnerabilities for your protocol.   
 
 
-## Competitive Audit Contests
+## Total Results
+
+### 
+| Findings             | Results    | 
+|:-------------------|:-------------|
+| 9 High 11 Medium  | $5.380 |
+
+
+
 
 ### Ongoing
 | Date             | Contest                                                                       | Platform                                                                                 |  Status |
 |:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|
-|February 2024  | AiArena | Code4rena | Judging |
+
 |March 2024  | Revert Lend | Code4rena | Judging |
 |March 2024  | Amphor | Sherlock | Judging |
 |March 2024  | Radicalx | Sherlock | Judging |
