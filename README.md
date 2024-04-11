@@ -11,24 +11,14 @@ I work through **Pay Per Vulnerability**, meaning a fixed fee and only additiona
 
 ## Total Results
 
-### 
+
 | Findings             | Results    | 
 |:-------------------|:-------------|
-| 9 High 11 Medium 19 Low  | $5.380 |
+| 9 High 13 Medium 22 Low  | $6.140 |
 
-
-
-
-### Ongoing
-| Date             | Contest                                                                       | Platform                                                                                 |  Status |
-|:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|
-|March 2024  | Revert Lend | Code4rena | Judging |
-|March 2024  | Radicalx | Sherlock | Judging |
-
-
-### Concluded
 | Date             | Contest                                                                       | Platform                                                                                 | Findings | Payout |
 |:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|:-------:|
+|March 2024  | Revert Lend | Code4rena | 2 Medium 3 Low 🥇 Analysis |$760.12 |
 |February 2024  | AiArena | Code4rena | 3 High 1 Medium 2 Low + Analysis| $180.21 |
 |February 2024  | Spectra | Code4rena | 1 Medium + 3 Low | $100.16 |
 |December 2023  | Ethereum Credit Guild | Code4rena | 1 Low + Analysis  | $114.88 |
