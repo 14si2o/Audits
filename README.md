@@ -14,10 +14,12 @@ I work through **Pay Per Vulnerability**, meaning a fixed fee and only additiona
 
 | Findings             | Results    | 
 |:-------------------|:-------------|
-| 9 High 13 Medium 22 Low  | $6.140 |
+| 10 High 13 Medium 24 Low  | $6.141 |
 
+🥇 = Selected for report.
 | Date             | Contest                                                                       | Platform                                                                                 | Findings | Payout |
 |:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|:-------:|
+|March 2024  | Radicalxchange | Sherlock | 1 High 🥇 2 Low |$1.18 |
 |March 2024  | Revert Lend | Code4rena | 2 Medium 3 Low 🥇 Analysis |$760.12 |
 |February 2024  | AiArena | Code4rena | 3 High 1 Medium 2 Low + Analysis| $180.21 |
 |February 2024  | Spectra | Code4rena | 1 Medium + 3 Low | $100.16 |
