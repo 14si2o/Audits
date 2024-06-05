@@ -14,12 +14,13 @@ I work through **Pay Per Vulnerability**, meaning a fixed fee and only additiona
 
 | Findings             | Results    | 
 |:-------------------|:-------------|
-| 13 High 13 Medium 24 Low  | $7.553 |
+| 14 High 15 Medium 24 Low  | $7,553 |
 
 🥇 = Selected for report.
 | Date             | Contest                                                                       | Platform                                                                                 | Findings | Payout |
 |:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|:-------:|
 |April 2024  | Titles | Sherlock | 1 High |$1,371.53 |
+|April 2024  | Renzo Protocol | Code4rena | 1 High - 2 Medium |$18.24 |
 |April 2024  | Zivoe | Sherlock | 2 High |$40.04 |
 |March 2024  | Radicalxchange | Sherlock | 1 High 🥇 2 Low |$1.18 |
 |March 2024  | Revert Lend | Code4rena | 2 Medium 3 Low 🥇 Analysis |$760.12 |
