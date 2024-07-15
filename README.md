@@ -6,19 +6,19 @@ You can reach out for security consultancy and reviews via:
 - **Discord:** @14si2o_flint 
 - **Telegram:** @Flint_14si2o
 
-I work through **Pay Per Vulnerability**, meaning a fixed fee and only additional remuneration if I can actually find and resolve vulnerabilities for your protocol.   
-
+For private audits, I can be contacted through Twitter or Discord. 
 
 ## Total Results
 
 
 | Findings             | Results    | 
 |:-------------------|:-------------|
-| 14 High 15 Medium 24 Low  | $7,553 |
+| 15 High 17 Medium 24 Low  | $7,707 |
 
 🥇 = Selected for report.
 | Date             | Contest                                                                       | Platform                                                                                 | Findings | Payout |
 |:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|:-------:|
+|June 2024 | ThorChain | Code4rena | 1 High 2 Medium |$153.75 |
 |April 2024  | Titles | Sherlock | 1 High |$1,371.53 |
 |April 2024  | Renzo Protocol | Code4rena | 1 High - 2 Medium |$18.24 |
 |April 2024  | Zivoe | Sherlock | 2 High |$40.04 |
