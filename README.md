@@ -15,15 +15,15 @@ For private audits, I can be contacted through Twitter or Discord.
 |:-------------------|:-------------|
 | 15 High 17 Medium 24 Low  | $7,707 |
 
-🥇 = Selected for report.
+
 | Date             | Contest                                                                       | Platform                                                                                 | Findings | Payout |
 |:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|:-------:|
 |June 2024 | ThorChain | Code4rena | 1 High 2 Medium |$153.75 |
 |April 2024  | Titles | Sherlock | 1 High |$1,371.53 |
 |April 2024  | Renzo Protocol | Code4rena | 1 High - 2 Medium |$18.24 |
 |April 2024  | Zivoe | Sherlock | 2 High |$40.04 |
-|March 2024  | Radicalxchange | Sherlock | 1 High 🥇 2 Low |$1.18 |
-|March 2024  | Revert Lend | Code4rena | 2 Medium 3 Low 🥇 Analysis |$760.12 |
+|March 2024  | Radicalxchange | Sherlock | 1 High 2 Low |$1.18 |
+|March 2024  | Revert Lend | Code4rena | 2 Medium 3 Low + Analysis |$760.12 |
 |February 2024  | AiArena | Code4rena | 3 High 1 Medium 2 Low + Analysis| $180.21 |
 |February 2024  | Spectra | Code4rena | 1 Medium + 3 Low | $100.16 |
 |December 2023  | Ethereum Credit Guild | Code4rena | 1 Low + Analysis  | $114.88 |
