@@ -1,7 +1,7 @@
 # Audit Portfolio - RockSolid Security
 
 Team Members:
-- @14si2o_flint
+- @0xflint_
 - @drynooo
 - @0xCaera
 - @AungMaw97445407
@@ -13,10 +13,13 @@ Team Members:
 
 | Findings             | Results    | 
 |:-------------------|:-------------|
-| 25 High 40 Medium 18 Low  | $23,631 |
+| 25 High 43 Medium 18 Low  | $36,435 |
 
 | Date             | Contest                                                                       | Platform                                                                                 | Findings | Payout |
 |:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|:-------:|
+|June 2024 | Chainlink CCIP | CodeHawks | 1 Medium |$10,301 |
+|June 2024 | Badger | Code4rena | 1 Medium |$1912 |
+|June 2024 | Vultisig | Code4rena | 1 Medium |$591 |
 |June 2024 | ThorChain | Code4rena | 1 High 2 Medium |$615 |
 |May 2024  | Sablier | CodeHawks |1 Medium |$5,132.41 |
 |May 2024  | Possum | ShieldifyPPV | 1 Medium 1 low | $300|
