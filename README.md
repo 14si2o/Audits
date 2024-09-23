@@ -1,10 +1,9 @@
-# Audit Portfolio - Flint_14si2o
+# Audit Portfolio - 0xFlint_
 
 You can reach out for security consultancy and reviews via:
 
-- **X:** @14si20
-- **Discord:** @14si2o_flint 
-- **Telegram:** @Flint_14si2o
+- **X:** @0xFlint_
+- **Discord:** @0xFlint_ 
 
 For private audits, I can be contacted through Twitter or Discord. 
 
@@ -13,11 +12,13 @@ For private audits, I can be contacted through Twitter or Discord.
 
 | Findings             | Results    | 
 |:-------------------|:-------------|
-| 15 High 17 Medium 24 Low  | $7,707 |
+| 18 High 20 Medium 26 Low  | $10,716 |
 
 
 | Date             | Contest                                                                       | Platform                                                                                 | Findings | Payout |
 |:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|:-------:|
+|July 2024 | Zaros | CodeHawks | 3 High 2 Medium 2 Low |$86 |
+|July 2024 | Chainlink - CCIP | Code4rena | 1 Medium |$2,923 |
 |June 2024 | ThorChain | Code4rena | 1 High 2 Medium |$153.75 |
 |April 2024  | Titles | Sherlock | 1 High |$1,371.53 |
 |April 2024  | Renzo Protocol | Code4rena | 1 High - 2 Medium |$18.24 |
