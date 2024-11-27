@@ -12,11 +12,19 @@ For private audits, I can be contacted through Twitter or Discord.
 
 | Findings             | Results    | 
 |:-------------------|:-------------|
-| 18 High 20 Medium 26 Low  | $10,716 |
+| 21 High 23 Medium 28 Low  | $10,716 |
 
+Private Engagements
+| Date             | Protocol    | 
+|:-------------------|:-------------|
+| Oktober 2024  | Racfathers |
+| November 2024  | Computing Will |
 
+Public Contests
 | Date             | Contest                                                                       | Platform                                                                                 | Findings | Payout |
 |:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|:-------:|
+|September 2024 | StakeUp | Cantina | 3 High 2 Medium 2 Low |TBD |
+|September 2024 | Symbiotic | Cantina | 1 Medium |TBD |
 |July 2024 | Zaros | CodeHawks | 3 High 2 Medium 2 Low |$86 |
 |July 2024 | Chainlink - CCIP | Code4rena | 1 Medium |$2,923 |
 |June 2024 | ThorChain | Code4rena | 1 High 2 Medium |$153.75 |
