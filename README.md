@@ -4,7 +4,7 @@ You can reach out for security consultancy and reviews via:
 
 - **X:** @0xFlint_
 - **Discord:** @0xFlint_
-- **Telegram: **https://t.me/OxFlint
+- **Telegram:** https://t.me/OxFlint
 
 For private audits, I can be contacted through Twitter, Discord or Telegram. 
 
