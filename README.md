@@ -13,8 +13,8 @@ For private audits, I can be contacted through Twitter, Discord or Telegram.
 Private Engagements
 | Date             | Protocol    | 
 |:-------------------|:-------------|
-| Oktober 2024  | Racfathers |
 | November 2024  | Computing Will |
+| Oktober 2024  | Racfathers |
 
 Public Contests
 | Date             | Contest                                                                       | Platform                                                                                 | Findings | Payout |
