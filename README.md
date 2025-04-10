@@ -8,13 +8,21 @@ You can reach out for security consultancy and reviews via:
 
 For private audits, I can be contacted through Twitter, Discord or Telegram. 
 
-## Total Results
+
+Certora
+| Date             | Protocol    | 
+|:-------------------|:-------------|
+| February 2025  | EigenLayer Staking |
+| March 2025  | Mayan |
+| March 2025  | Infinifi |
+| April 2025  | Heaven AMM |
 
 Private Engagements
 | Date             | Protocol    | 
 |:-------------------|:-------------|
 | November 2024  | Computing Will |
 | Oktober 2024  | Racfathers |
+| January 2025  | Cracked Labs |
 
 Public Contests
 | Date             | Contest                                                                       | Platform                                                                                 | Findings | Payout |
