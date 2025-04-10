@@ -6,9 +6,6 @@ You can reach out for security consultancy and reviews via:
 - **Discord:** @0xFlint_
 - **Telegram:** https://t.me/OxFlint
 
-For private audits, I can be contacted through Twitter, Discord or Telegram. 
-
-
 Certora
 | Date             | Protocol    | 
 |:-------------------|:-------------|
