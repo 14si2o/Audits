@@ -9,17 +9,18 @@ I can be contacted via:
 Certora
 | Date             | Protocol    | 
 |:-------------------|:-------------|
-| February 2025  | EigenLayer Staking |
+| April 2025  | Heaven AMM |
 | March 2025  | Mayan |
 | March 2025  | Infinifi |
-| April 2025  | Heaven AMM |
+| February 2025  | EigenLayer Staking |
 
 Private Engagements
 | Date             | Protocol    | 
 |:-------------------|:-------------|
+| January 2025  | Cracked Labs |
 | November 2024  | Computing Will |
 | Oktober 2024  | Racfathers |
-| January 2025  | Cracked Labs |
+
 
 Public Contests
 | Date             | Contest                                                                       | Platform                                                                                 | Findings | Payout |
