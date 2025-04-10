@@ -1,6 +1,6 @@
 # Audit Portfolio - 0xFlint_
 
-You can reach out for security consultancy and reviews via:
+I can be contacted via:
 
 - **X:** @0xFlint_
 - **Discord:** @0xFlint_
