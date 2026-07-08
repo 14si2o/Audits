@@ -6,13 +6,6 @@ I can be contacted via:
 - **Discord:** @0xFlint_
 - **Telegram:** https://t.me/OxFlint
 
-Certora
-| Date             | Protocol    | 
-|:-------------------|:-------------|
-| April 2025  | Heaven AMM |
-| March 2025  | Mayan |
-| March 2025  | Infinifi |
-| February 2025  | EigenLayer Staking |
 
 Private Engagements
 | Date             | Protocol    | 
