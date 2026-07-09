@@ -7,6 +7,27 @@ I can be contacted via:
 - **Telegram:** https://t.me/OxFlint
 
 
+Certora
+| Date             | Protocol    | Ecosystem    | 
+|:-------------------|:-------------|:-------------|
+| July 2026  | Spectra | Stellar |
+| June 2026  | Fluid | EVM |
+| April - May 2026  | Hadron | Solana |
+| Feb - March 2026  | Fluid | Solana |
+| Feb 2026  | Kamino | Solana |
+| January 2026  | EigenLayer | EVM |
+| December 2025  | Sky | EVM |
+| November 2025 | Defa | Stellar |
+| October 2025  | Sky | EVM |
+| September 2025  | Mysten Labs Bridge | Sui |
+| August 2025  | Balancer | EVM |
+| August 2025  | Kamino | Solana |
+| May - July 2025  | Heaven | Solana |
+| March - April 2025  | Infinifi | EVM |
+| Feb 2025  | Mayan | EVM |
+| Jan 2025  | EigenLayer | EVM |
+
+
 Private Engagements
 | Date             | Protocol    | 
 |:-------------------|:-------------|
