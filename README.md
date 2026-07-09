@@ -39,7 +39,7 @@ Private Engagements
 Public Contests
 | Date             | Contest                                                                       | Platform                                                                                 | Findings | Payout |
 |:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|:-------:|
-|September 2024 | StakeUp | Cantina | 3 High 2 Medium 2 Low |TBD |
+|September 2024 | StakeUp | Cantina | 3 High 2 Medium 2 Low |$336 |
 |September 2024 | Symbiotic | Cantina | 1 Medium | $348 |
 |July 2024 |  Zaros | CodeHawks | 3 High 2 Medium 2 Low |$86 |
 |July 2024 |  Chainlink - CCIP | Code4rena | 1 Medium |$10,301 |
