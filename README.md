@@ -31,7 +31,7 @@ Certora
 Private Engagements
 | Date             | Protocol    | 
 |:-------------------|:-------------|
-| January 2025  | Cracked Labs |
+| December 2024  | Cracked Labs |
 | November 2024  | Computing Will |
 | Oktober 2024  | Racfathers |
 
