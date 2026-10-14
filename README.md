@@ -7,6 +7,18 @@ I can be contacted via:
 - **Telegram:** https://t.me/OxFlint
 
 
+
+
+Cyfrin
+| Date             | Protocol    | Ecosystem    | 
+|:-------------------|:-------------|:-------------|
+| October 2026  | Ondo | EVM |
+| October 2026  | Metamask | EVM |
+| October 2026  | STBL | EVM |
+| September 2026  | Securitize | Stellar |
+| September 2026  | Metamask | EVM |
+
+
 Certora
 | Date             | Protocol    | Ecosystem    | 
 |:-------------------|:-------------|:-------------|
