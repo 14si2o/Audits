@@ -23,6 +23,7 @@ Certora
 | Date             | Protocol    | Ecosystem    | 
 |:-------------------|:-------------|:-------------|
 | July 2026  | Spectra | Stellar |
+| June 2026  | CashXChain | Off-Chain |
 | June 2026  | Fluid | EVM |
 | April - May 2026  | Hadron | Solana |
 | Feb - March 2026  | Fluid | Solana |
